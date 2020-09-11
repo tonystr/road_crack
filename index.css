@@ -51,7 +51,17 @@ html, body {
                  0 0 18px #f4f1eb;
 }
 
-.home-fg h2 {
+.goal {
+    width: 54rem;
+    margin: 0 auto;
+}
+
+.goal h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.home h2 {
     font-size: 2.4rem;
     font-weight: normal;
     font-family: 'Yrsa', serif;
