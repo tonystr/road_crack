@@ -2,7 +2,8 @@
 html, body {
     padding: 0;
     margin: 0;
-    font-family: 'Yrsa', serif;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 1rem;
     color: #643754;
 }
 
@@ -45,7 +46,6 @@ html, body {
 .home h1 {
     font-size: 5rem;
     font-weight: normal;
-    font-family: 'Yrsa', serif;
     text-align: center;
     margin: 0;
     text-shadow: 0 0 18px #f4f1eb,
@@ -53,10 +53,13 @@ html, body {
                  0 0 18px #f4f1eb;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Varela Round', sans-serif;
+}
+
 .home h2 {
     font-size: 2.4rem;
     font-weight: normal;
-    font-family: 'Yrsa', serif;
     text-shadow: 0 0 18px #f4f1eb,
                  0 0 18px #f4f1eb,
                  0 0 18px #f4f1eb;
@@ -69,6 +72,7 @@ html, body {
 .goal {
     width: 54rem;
     margin: 0 auto;
+    font-size: 1.4rem;
 }
 
 .goal h2 {
