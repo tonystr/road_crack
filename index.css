@@ -7,6 +7,15 @@ html, body {
     color: #643754;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Varela Round', sans-serif;
+}
+
+footer {
+    padding: 2rem;
+    text-align: center;
+}
+
 .home-bg {
     height: 100%;
     position: absolute;
@@ -51,10 +60,6 @@ html, body {
     text-shadow: 0 0 18px #f4f1eb,
                  0 0 18px #f4f1eb,
                  0 0 18px #f4f1eb;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Varela Round', sans-serif;
 }
 
 .home h2 {
