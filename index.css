@@ -26,6 +26,12 @@ footer a {
     color: #f94242;
 }
 
+header {
+    padding: 1rem 2rem;
+    background-color: #3a2b3e;
+    margin-bottom: 4rem;
+}
+
 .home-bg {
     height: 100%;
     position: absolute;
